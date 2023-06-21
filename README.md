@@ -1,10 +1,12 @@
 ### Olá! Chamo-me Luís 👋
 
-[![Meu Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=LUISPEREIRALABS.COM)](https://luispereiralabs.com)
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=LUISPEREIRALABS.com)](https://luispereiralabs.com)
+
 
 ### Atividade
 
-![Luís Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=luispereira1999&show_icons=true&theme=dracula&hide=stars,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luispereira1999&show_icons=true&theme=dracula&hide=stars,contribs)
+
 
 ### Tecnologias mais utilizadas
 
@@ -20,6 +22,15 @@
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </div>
+
+
+### Últimos trabalhos
+
+- [Aplicação mobile sobre Viagens - Travel Memories](https://github.com/luispereira1999/travel-memories)
+- [Flexible Job Shop Scheduling Problem (FJSSP)](https://github.com/luispereira1999/fjssp)
+- [Cenário com OpenGL - Pool Balls](https://github.com/luispereira1999/pool-balls)
+- [Jogo 3D multiplayer em Unity - Jungle Party](https://github.com/luispereira1999/jungle-party)
+- [Jogo 2D singleplayer em React.js - Color Blind](https://github.com/luispereira1999/color-blind)
 
 <!--
 Here are some ideas to get you started:
