@@ -3,11 +3,6 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=LUISPEREIRALABS.com)](https://luispereiralabs.com)
 
 
-### Atividade
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luispereira1999&show_icons=true&theme=dracula&hide=stars,contribs)
-
-
 ### Tecnologias mais utilizadas para o front-end
 
 <div style="display: inline_block">
