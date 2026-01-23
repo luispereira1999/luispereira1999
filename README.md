@@ -1,9 +1,9 @@
-## Olá! Chamo-me Luís 👋
+## Olá! Chamo-me Luís e sou Programador Full-Stack 👋
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=LUISPEREIRALABS.com)](https://luispereiralabs.com)
 
 
-### Tecnologias mais utilizadas para o front-end
+### Principais em Front-end
 
 <div style="display: inline_block">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </div>
 
-### Tecnologias mais utilizadas para o back-end
+### Principais em Back-end
 
 <div style="display: inline_block">
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
-### Outros tecnologias já utilizadas
+### Outros já utilizados
 
 <div style="display: inline_block">
    <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -39,7 +39,7 @@
 </div>
 
 
-### Últimos repositórios
+### Últimos repositórios públicos
 
 - [Cosmic Confrontation - Jogo 3D de aventura](https://github.com/luispereira1999/cosmic-confrontation)
 - [Flexible Job Shop Problem - Aplicação de gestão](https://github.com/luispereira1999/fjsp)
